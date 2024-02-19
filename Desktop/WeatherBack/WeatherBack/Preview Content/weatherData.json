@@ -1,0 +1,13 @@
+{
+    "coord":{"lon":6.11,"lat":45.9},
+    "weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01n"}],
+    "base":"stations",
+    "main":{"temp":11.7,"feels_like":10.91,"temp_min":9.26,"temp_max":12.64,"pressure":1030,"humidity":76},
+    "visibility":10000,
+    "wind":{"speed":2.57,"deg":240},
+    "clouds":{"all":0},
+    "dt":1708276417,
+    "sys":{"type":1,"id":6500,"country":"FR","sunrise":1708238079,"sunset":1708275883},"timezone":3600,"id":3037543,
+    "name":"Annecy",
+    "cod":200
+}
